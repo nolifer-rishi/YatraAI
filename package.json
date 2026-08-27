@@ -1,0 +1,8 @@
+{
+  "name": "yatra-ai",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "npm install --prefix FRONTEND && npm run build --prefix FRONTEND"
+  }
+}
